@@ -7,4 +7,4 @@ There was an internet puzzle, or ARG (Alternate Reality Game) back in 2018 calle
 # To-Do's
 - [ ] Add an "input()" function so you could input your own string with missing characters (dashes) to brute force.
 - [ ] Make a way for it to save the output to a text file after the script ends without telling it to from the command line.
-- [ ] more stuff probably...
+- [ ] make the dictionary alphanumeric or even alphanumeric w/ symbols
